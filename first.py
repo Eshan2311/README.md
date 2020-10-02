@@ -1,2 +1,2 @@
 #display the output
-print('this is my git repo')
+print("This is my git repo")
